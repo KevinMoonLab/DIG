@@ -11,4 +11,4 @@ Based on the paper [here](https://arxiv.org/abs/1906.10725). Additionally, a bri
 
 ### Jupyter notebooks 
 
-There are three [demos](https://github.com/KevinMoonLab/DIG/tree/master/Examples) on how to use DIG. 
+There are three [demos](https://github.com/KevinMoonLab/DIG/blob/master/DIG_python/EEG_demo.ipynb) on how to use DIG. 
