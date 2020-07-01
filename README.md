@@ -3,11 +3,11 @@
 
 DIG is a method for visualizing high dimensional dynamical processes 
 
-Based on the paper [here](https://arxiv.org/abs/1906.10725). Additionally, a brief explanation about this method can be found in `DIG_poster.pdf`. 
+Based on the paper [here](https://doi.org/10.1109/MLSP.2019.8918875). Additionally, a brief explanation about this method can be found in `DIG_poster.pdf`. 
 
 ### Requirements
 
-[PHATE](https://github.com/KrishnaswamyLab/PHATE/tree/master/Python) package is required. 
+The [PHATE](https://github.com/KrishnaswamyLab/PHATE/tree/master/Python) package is required. 
 
 ### Demo notebooks 
 
